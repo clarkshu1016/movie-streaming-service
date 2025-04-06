@@ -17,8 +17,6 @@ This project provides a scalable, serverless backend for a movie streaming platf
 
 ## Technical Architecture
 
-![Architecture Diagram](docs/architecture-diagram.png)
-
 ### Backend Components
 
 - **API Gateway**: RESTful API endpoints for client applications
